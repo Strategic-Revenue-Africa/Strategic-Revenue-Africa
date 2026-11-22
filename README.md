@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://strategicrevenueafrica.com/assets/logo.png" alt="Company Banner" width="100%" />
+  <img src="https://strategicrevenueafrica.com/assets/logo.png" alt="Company Banner" width="20%" />
 
   <br />
   <br />
