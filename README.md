@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://via.placeholder.com/800x200/000000/FFFFFF?text=COMPANY+LOGO+HERE](https://avatars.githubusercontent.com/u/274817037?v=4)" alt="Company Banner" width="100%" />
+  <img src="https://strategicrevenueafrica.com/assets/logo.png" alt="Company Banner" width="100%" />
 
   <br />
   <br />
